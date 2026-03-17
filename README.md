@@ -114,7 +114,7 @@ Go to **Run → Run Configurations → Arguments**
 
 ## 📸 Screenshots
 
-> Add screenshots of your UI here to showcase your project
+> ![Dashboard](dashboard.png)
 
 ---
 
