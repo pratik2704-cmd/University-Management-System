@@ -114,7 +114,7 @@ Go to **Run → Run Configurations → Arguments**
 
 ## 📸 Screenshots
 
-> ![Dashboard](dashboard.png)
+> ![Dashboard](screenShot.png)
 
 ---
 
